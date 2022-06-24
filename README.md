@@ -1,9 +1,4 @@
 # cse210-03
-
-
-# Written by Andrew Swayze
-
-
 ## Jumper
 Have you ever found yourself bored and wanting to play hangman but no one will play with you?
 Well, this is the program for you!
@@ -27,14 +22,13 @@ root                    (project root folder)
   +-- terminal_service      (specific classes)
   +-- animation             (specific classes)
   +-- word_list             (specific classes)
-  +-- words_bank           (specific classes)
-  +-- __main__.py       (program entry point)
+  +-- words_bank            (specific classes)
+  +-- __main__          (program entry point)
 +-- README.md           (general info)
 ```
 
 ## Required Technologies
 * Python 3.8.0
 
-## Authors
-* Matt Manley (manleym@byui.edu)
-* Scott Burton (burtons@byui.edu)
+## Author
+* Andrew Swayze (swa13003@byui.edu)
