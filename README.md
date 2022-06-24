@@ -28,7 +28,7 @@ root                    (project root folder)
   +-- animation             (specific classes)
   +-- word_list             (specific classes)
   +-- words_bank           (specific classes)
-  +-- __main__.py       (program entry point)
+  +-- __main__       (program entry point)
 +-- README.md           (general info)
 ```
 
