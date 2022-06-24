@@ -22,8 +22,13 @@ root                    (project root folder)
   +-- terminal_service      (specific classes)
   +-- animation             (specific classes)
   +-- word_list             (specific classes)
+<<<<<<< HEAD
   +-- words_bank            (specific classes)
   +-- __main__          (program entry point)
+=======
+  +-- words_bank           (specific classes)
+  +-- __main__       (program entry point)
+>>>>>>> 6780f90465a9b3c2c730e9e0ca8af6f11e5a3572
 +-- README.md           (general info)
 ```
 
